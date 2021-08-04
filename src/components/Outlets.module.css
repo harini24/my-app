@@ -1,0 +1,13 @@
+.outletItem{
+    margin: 5px;
+    border: 2px solid black;
+    display: flex;
+    height:100px;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.outletDet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

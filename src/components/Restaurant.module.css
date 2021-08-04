@@ -1,0 +1,41 @@
+.restImg{
+    height: 150px;
+    width: 120px;
+}
+.restItems{
+    margin: 5px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.restItem{
+    margin: 5px;
+    border: 2px solid black;
+    display: flex
+}
+.inlineBlk{
+    display: inline-block;
+}
+.restName{
+    display: inline-block;
+    margin:10px 0 0 20px;
+    font-size: x-large;
+}
+.outletsList{
+    margin-left: 50px;
+    border: 1px solid black;
+    margin-right: 5px;
+}
+.RestDet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.restDesc{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+    justify-content: space-evenly;
+}
